@@ -17,21 +17,22 @@ Ange et décor a participé aux activités suivantes :
 La société a besoin de gagner en visibilité.
 En effet, pour gagner en visibilité, ange et décor a décidé de créer son propre site internet afin de pouvoir présenter l’entreprise et avoir sa propre gallérie d’images et vidéos.
 Pour cela, la société a investi sur un server qui pourra héberger leur futur site web ainsi qu’un nom de domaine.
-Contenu du site web :
 
-## Partie Présentation :
+## Contenu du site web :
+
+### Partie Présentation :
 
 Une présentation de l’entreprise depuis le début de sa création sera faite.
 
-## Partie Gallérie :
+### Partie Gallérie :
 
 Des images et vidéos seront mises à disposition des internautes afin de pouvoir diffuser les différentes décorations effectué durant les diverses soirées décoré par ange et décor.
 
-## Partie Contact :
+### Partie Contact :
 
 Les contacts de l’entreprise seront affichés afin que les internautes puissent contacter l’entreprise via un numéro de mobile ou par adresse e-mail.
 
-## Partie Administration avec authentification :
+### Partie Administration avec authentification :
 
 L’administrateur du site pourra modifier le contenu du site, soit :
 
