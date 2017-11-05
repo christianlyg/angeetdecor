@@ -4,7 +4,7 @@
 
 Cette société s'est étalée et placé dans le marché international de la décoration.
 Ange et décor est composé d'une équipe de professionnelles spécialisée, avec 12 ans d'expériences, dans le domaine de la décoration évènementielle. 
-Celle-ci accompagne, conseil et propose, durant tout le parcours des jeunes mariées, afin de passer du rêve à la réalité. 
+Celle-ci accompagne le client, le conseil et propose afin de passer du rêve à la réalité. 
 
 Ange et décor a participé aux activités suivantes :
 
@@ -36,6 +36,6 @@ Les contacts de l’entreprise seront affichés afin que les internautes puissen
 
 L’administrateur du site pourra modifier le contenu du site, soit :
 
-- Le texte de la présentation de l’entreprise :
+- Le texte de la présentation de l’entreprise
 - Les images et vidéos de la partie gallérie
 - La partie contact
